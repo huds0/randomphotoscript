@@ -1,6 +1,6 @@
 # Random Photo Script
 
-This script is made in Python and will display any random photo from a specified directory. At the moment it uses
+This script is made in Python and will display any random photo from a specified directory from your terminal. At the moment it uses
 nsxiv as the image viewer but this can be easily changed to suit your preferences.
 
 ## Steps to install:
